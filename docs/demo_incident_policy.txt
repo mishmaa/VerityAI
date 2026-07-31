@@ -1,0 +1,7 @@
+VERITY DEMO — INCIDENT RESPONSE POLICY
+
+Critical security incidents must be reported to the security lead within thirty minutes of discovery. The incident commander must preserve relevant audit logs, record the affected systems, and notify legal when personal or regulated data may be involved.
+
+High-severity incidents require an executive update within two hours. The final incident report must document the timeline, root cause, customer impact, corrective actions, and accountable owners.
+
+Access to incident records is limited to authorized response team members. Evidence must not be copied into unapproved messaging or personal storage systems.
